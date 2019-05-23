@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src="./src/img/yanyunchangfeng.png">
+    <img width="300" src="src/assets/img/yanyunchangfeng.png">
 </p>
 
 ##  介绍
@@ -8,7 +8,7 @@
 
 这是英语语法的学习，如下:
 
-1. [词类、句子成分、动词种类、句式流程图](src/lesson1/EnglishgrammerLesson1.png)   
+1. [词类、句子成分、动词种类、句式流程图](src/assets/img/lesson1.png)   
 
 
 ## 我参与的系列项目
