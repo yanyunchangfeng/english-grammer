@@ -9,6 +9,7 @@
 这是英语语法的学习，如下:
 
 1. [词类、句子成分、动词种类、句式流程图](src/assets/img/lesson1.png)   
+2. [五大核心句式，动词时态](src/assets/img/lesson2.png)   
 
 
 ## 我参与的系列项目
