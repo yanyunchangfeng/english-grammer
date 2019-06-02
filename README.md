@@ -13,7 +13,7 @@
 3. [名词性从句](src/assets/img/lesson3.png) 
 4. [定语从句](src/assets/img/lesson4.png)   
 5. [状语从句](src/assets/img/lesson5.png)   
-6. [句子成分和词类交互式对应](src/assets/img/lesson5.png)   
+6. [句子成分和词类交互式对应](src/assets/img/lesson6.png)   
 
 
 ## 我的个人博客  
