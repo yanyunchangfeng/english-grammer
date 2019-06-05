@@ -14,6 +14,7 @@
 4. [定语从句](src/assets/img/lesson4.png)   
 5. [状语从句](src/assets/img/lesson5.png)   
 6. [句子成分和词类交互式对应](src/assets/img/lesson6.png)   
+7. [句子成分超精解的奥秘](src/assets/img/lesson7.png)   
 
 
 ## 我的个人博客  
