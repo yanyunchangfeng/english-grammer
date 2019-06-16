@@ -16,6 +16,7 @@
 6. [句子成分和词类交互式对应](src/assets/img/lesson6.png)   
 7. [句子成分超精解的奥秘](src/assets/img/lesson7.png)   
 8. [语法七要素-两大短语](src/assets/img/lesson8.png)   
+9. [五二三法则——英语中断句的奥秘](src/assets/img/lesson9.png)   
 
 
 ## 我的个人博客  
