@@ -18,7 +18,7 @@
 8.  [语法七要素-两大短语](src/assets/img/lesson8.png)   
 9.  [五二三法则——英语中断句的奥秘](src/assets/img/lesson9.png)   
 10. [五二三法则——英语中多重修饰的句式](src/assets/img/lesson10.png)   
-11. [两大短语——移花接木——写尽天下英文](src/assets/img/lesson11.png)   
+11. [五二三法则——三大从句超精解进阶](src/assets/img/lesson11.png)   
 
 
 ## 我的个人博客  
