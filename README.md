@@ -21,7 +21,7 @@
 11. [五二三法则——三大从句超精解进阶一](src/assets/img/lesson11.png)   
 12. [五二三法则——三大从句超精解进阶二](src/assets/img/lesson12.png)   
 13. [三大从句百句斩入门训练1-62](src/assets/img/lesson13.png)   
-14. [三大从句百句斩入门训练63-80](src/assets/img/lesson14.png)   
+14. [三大从句百句斩入门训练63-100](src/assets/img/lesson14.png)   
 
 
 ## 我的个人博客  
