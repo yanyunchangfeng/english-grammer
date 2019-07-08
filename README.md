@@ -7,7 +7,7 @@
 寓意：结合李白著名的边塞诗《关山月》取【燕云长风】—— 长风几万里，吹度玉门关。
 
 这是英语语法的学习，如下:
-  PS ：16 课 对应 19 * 1h 课程（中间有合并）
+  PS ：18 课 对应 21 * 1h 课程（中间有合并）
 1.  [词类、句子成分、动词种类、句式流程图](src/assets/img/lesson1.png) 
 2.  [五大核心句式，动词时态](src/assets/img/lesson2.png)   
 3.  [名词性从句](src/assets/img/lesson3.png) 
@@ -23,8 +23,9 @@
 13. [三大从句百句斩入门训练1-62](src/assets/img/lesson13.png)   
 14. [三大从句百句斩入门训练63-100](src/assets/img/lesson14.png)   
 15. [三大从句百句斩进阶训练](src/assets/img/lesson15.png)   
-16. [定语从句进阶版](src/assets/img/lesson16.png)   
+16. [定语从句进阶版1](src/assets/img/lesson16.png)   
 17. [三大从句百句斩进阶训练1](src/assets/img/lesson17.png)   
+18. [定于从句进阶版2](src/assets/img/lesson18.png)   
 
 
 ## 我的个人博客  
