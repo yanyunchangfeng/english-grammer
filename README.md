@@ -28,6 +28,7 @@
 18. [定语从句进阶版2](src/assets/img/lesson18.png)   
 19. [状语从句进阶版1](src/assets/img/lesson19.png)   
 23. [状语从句进阶版2](src/assets/img/lesson23.png)   
+24. [动词时态与语态超精解](src/assets/img/lesson24.png)   
 
 
 ## 我的个人博客  
@@ -43,12 +44,20 @@
  
 ## 我的社交主页  
 
-1. [燕云长风知乎](https://zhihu.com/people/hbxyxuxiaodong)  
-2. [燕云长风知乎专栏](https://zhuanlan.zhihu.com/yanyunchangfeng) 
-3. [燕云长风github](https://github.com/yanyunchangfeng)  
-4. [燕云长风gitee](https://gitee.com/yanyunchangfeng)  
-5. [燕云长风twitter](https://twitter.com/yanyunchangfeng)  
-6. [燕云长风medium](https://medium.com/@yanyunchangfeng) 
+## 我的社交主页  
+
+1.  [燕云长风知乎](https://zhihu.com/people/hbxyxuxiaodong)  
+2.  [燕云长风知乎专栏](https://zhuanlan.zhihu.com/yanyunchangfeng) 
+3.  [燕云长风github](https://github.com/yanyunchangfeng)  
+4.  [燕云长风gitee](https://gitee.com/yanyunchangfeng)  
+5.  [燕云长风twitter](https://twitter.com/yanyunchangfeng)  
+6.  [燕云长风medium](https://medium.com/@yanyunchangfeng)  
+7.  [燕云长风facebook](https://facebook.com/yanyunchangfeng)  
+8.  [燕云长风stackoverflow](http://stackoverflow.com/users/11366314)  
+9.  [燕云长风npm](https://npmjs.com/~yanyunchangfeng)  
+10. [燕云长风linkedin](https://www.linkedin.com/in/yanyunchangfeng)  
+11. [燕云长风youtube](https://www.youtube.com/channel/UCaz2-l8Bd8tTBf1q-2ww7VA)  
+12. [燕云长风gmail](mailto:yanyunchangfeng@gamil.com)
 
 ## 开源许可证
 
