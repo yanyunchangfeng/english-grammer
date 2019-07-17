@@ -30,6 +30,7 @@
 23. [状语从句进阶版2](src/assets/img/lesson23.png)   
 24. [动词时态与语态超精解](src/assets/img/lesson24.png)   
 25. [八级句式渐变](src/assets/img/lesson25.png)   
+26. [初级写作与翻译训练](src/assets/img/lesson26.png)   
 
 
 ## 我的个人博客  
