@@ -31,6 +31,7 @@
 24. [动词时态与语态超精解](src/assets/img/lesson24.png)   
 25. [八级句式渐变](src/assets/img/lesson25.png)   
 26. [初级写作与翻译训练](src/assets/img/lesson26.png)   
+27. [百句斩长难句超精解](src/assets/img/lesson27.png)   
 
 
 ## 我的个人博客  
