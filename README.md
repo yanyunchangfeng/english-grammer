@@ -32,7 +32,8 @@
 25. [八级句式渐变](src/assets/img/lesson25.png)   
 26. [初级写作与翻译训练](src/assets/img/lesson26.png)   
 27. [百句斩长难句超精解](src/assets/img/lesson27.png)   
-28. [非谓语动词入门](src/assets/img/lesson28.png)   
+28. [非谓语动词入门1](src/assets/img/lesson28.png)   
+29. [非谓语动词入门2](src/assets/img/lesson29.png)   
 
 
 ## 我的个人博客  
