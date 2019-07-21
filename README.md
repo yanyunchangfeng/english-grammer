@@ -34,6 +34,7 @@
 27. [百句斩长难句超精解](src/assets/img/lesson27.png)   
 28. [非谓语动词入门1](src/assets/img/lesson28.png)   
 29. [非谓语动词入门2](src/assets/img/lesson29.png)   
+30. [非谓语动词入门3](src/assets/img/lesson30.png)   
 
 
 ## 我的个人博客  
