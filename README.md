@@ -35,6 +35,7 @@
 28. [非谓语动词入门1](src/assets/img/lesson28.png)   
 29. [非谓语动词入门2](src/assets/img/lesson29.png)   
 30. [非谓语动词入门3](src/assets/img/lesson30.png)   
+31. [非谓语动词例句解析](src/assets/img/lesson31.png)   
 
 
 ## 我的个人博客  
