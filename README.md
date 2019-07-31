@@ -42,6 +42,7 @@
 37. [名词性从句超精解高阶之宾语从句](src/assets/img/lesson37.png)   
 38. [超精解高阶之定语从句](src/assets/img/lesson38.png)   
 39. [超精解高阶之状语从句](src/assets/img/lesson39.png)   
+40. [非谓语动词进阶](src/assets/img/lesson40.png)   
 
 
 ## 我的个人博客  
