@@ -43,6 +43,7 @@
 38. [超精解高阶之定语从句](src/assets/img/lesson38.png)   
 39. [超精解高阶之状语从句](src/assets/img/lesson39.png)   
 40. [非谓语动词进阶](src/assets/img/lesson40.png)   
+42. [介词短语进阶](src/assets/img/lesson42.png)   
 
 
 ## 我的个人博客  
