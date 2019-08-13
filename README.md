@@ -47,7 +47,8 @@
 86. [核心句式之强调句式](src/assets/img/lesson86.png)   
 87. [核心句式之倒装句式1](src/assets/img/lesson87.png)   
 88. [核心句式之倒装句式2](src/assets/img/lesson88.png)   
-89. [核心句式之虚拟语气1](src/assets/img/lesson89.png)   
+89. [核心句式之虚拟语气](src/assets/img/lesson89.png)   
+90. [核心句式之省略句主谓一致](src/assets/img/lesson90.png)   
 
 
 ## 我的个人博客  
