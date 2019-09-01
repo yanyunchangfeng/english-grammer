@@ -39,6 +39,7 @@
 30. [30.非谓语动词入门3](src/assets/img/lesson30.png)   
 31. [31.非谓语动词例句解析](src/assets/img/lesson31.png)   
 32. [32.介词短语](src/assets/img/lesson32.png)   
+33. [33.介词短语第6节练习](src/assets/img/lesson33.png)   
 35. [35.名词性从句超精解高阶之主语从句](src/assets/img/lesson35.png)   
 36. [36.名词性从句超精解高阶之表语从句](src/assets/img/lesson36.png)   
 37. [37.名词性从句超精解高阶之宾语从句](src/assets/img/lesson37.png)   
