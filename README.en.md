@@ -48,6 +48,7 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 38. [超精解高阶之定语从句](src/assets/img/lesson38.png)   
 39. [超精解高阶之状语从句](src/assets/img/lesson39.png)   
 40. [非谓语动词进阶](src/assets/img/lesson40.png)   
+41. [Marvel系列电影原版例句赏析](src/assets/img/lesson41.png) 
 42. [介词短语进阶](src/assets/img/lesson42.png)   
 43. [介词短语进阶之哈利波特电影例句解析](src/assets/img/lesson43.png)   
 44. [介词短语综合强化训练1](src/assets/img/lesson44.png)  
