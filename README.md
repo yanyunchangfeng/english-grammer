@@ -55,6 +55,7 @@
 43. [介词短语进阶之哈利波特电影例句解析](src/assets/img/lesson43.png)   
 44. [介词短语综合强化训练1](src/assets/img/lesson44.png)   
 45. [介词短语综合强化训练2](src/assets/img/lesson45.png)   
+46. [五二三法则之中英文互译1](src/assets/img/lesson46.png)   
 86. [86.核心句式之强调句式](src/assets/img/lesson86.png)   
 87. [87.核心句式之倒装句式1](src/assets/img/lesson87.png)   
 88. [88.核心句式之倒装句式2](src/assets/img/lesson88.png)   
