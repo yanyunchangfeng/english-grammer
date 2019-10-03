@@ -56,6 +56,8 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 46. [五二三法则之中英文互译1](src/assets/img/lesson46.png)  
 47. [五二三法则之中英文互译2](src/assets/img/lesson47.png)  
 48. [五二三法则之中英文互译3](src/assets/img/lesson48.png)   
+49. [五二三法则之中英文互译4](src/assets/img/lesson49.png)   
+50. [五二三法则之中英文互译5](src/assets/img/lesson50.png)    
 86. [86.核心句式之强调句式](src/assets/img/lesson86.png)   
 87. [87.核心句式之倒装句式1](src/assets/img/lesson87.png)   
 88. [88.核心句式之倒装句式2](src/assets/img/lesson88.png)   
