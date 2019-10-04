@@ -61,6 +61,7 @@
 49. [五二三法则之中英文互译4](src/assets/img/lesson49.png)   
 50. [五二三法则之中英文互译5](src/assets/img/lesson50.png)   
 51. [五二三法则之中英文互译6](src/assets/img/lesson51.png)   
+52. [五二三法则之中英文互译7](src/assets/img/lesson52.png)   
 86. [86.核心句式之强调句式](src/assets/img/lesson86.png)   
 87. [87.核心句式之倒装句式1](src/assets/img/lesson87.png)   
 88. [88.核心句式之倒装句式2](src/assets/img/lesson88.png)   
