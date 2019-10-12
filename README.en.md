@@ -63,6 +63,7 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 53. [五二三法则之中英文互译8《钢铁侠 I》](src/assets/img/lesson53.png)   
 54. [五二三法则之中英文互译9《钢铁侠 I》](src/assets/img/lesson54.png)  
 55. [五二三法则之中英文互译10《钢铁侠 I》](src/assets/img/lesson55.png)    
+56. [五二三法则之中英文互译10《钢铁侠 I》](src/assets/img/lesson56.png)    
 86. [86.核心句式之强调句式](src/assets/img/lesson86.png)   
 87. [87.核心句式之倒装句式1](src/assets/img/lesson87.png)   
 88. [88.核心句式之倒装句式2](src/assets/img/lesson88.png)   
