@@ -50,7 +50,7 @@
 38. [超精解高阶之定语从句](src/assets/img/lesson38.png)   
 39. [超精解高阶之状语从句](src/assets/img/lesson39.png)   
 40. [非谓语动词进阶](src/assets/img/lesson40.png)   
-41. [Marvel系列电影原版例句赏析上](src/assets/img/lesson41-1.png)  |[Marvel系列电影原版例句赏析下](src/assets/img/lesson41-2.png)    |[Marvel系列电影原版例句赏析下](src/assets/img/lesson41-3.png)  
+41. [Marvel系列电影原版例句赏析上](src/assets/img/lesson41-1.png)  |[Marvel系列电影原版例句赏析中](src/assets/img/lesson41-2.png)    |[Marvel系列电影原版例句赏析下](src/assets/img/lesson41-3.png)  
 42. [介词短语进阶(上)](src/assets/img/lesson42-1.png)  |   [介词短语进阶(下)](src/assets/img/lesson42-2.png)    
 43. [介词短语进阶之哈利波特电影例句解析](src/assets/img/lesson43.png)   
 44. [介词短语综合强化训练1上](src/assets/img/lesson44-1.png) |[介词短语综合强化训练1下](src/assets/img/lesson44-2.png)   
@@ -79,6 +79,7 @@
 89. [89.核心句式之虚拟语气](src/assets/img/lesson89.png)   
 90. [90.核心句式之省略句主谓一致(上)](src/assets/img/lesson90-1.png)   |  [核心句式之省略句主谓一致(下)](src/assets/img/lesson90-2.png) 
 91. [91.核心词法篇上](src/assets/img/lesson91-1.png)   |  [核心词法篇中](src/assets/img/lesson91-2.png)   |  [核心词法篇下](src/assets/img/lesson91-3.png)  
+92. [92.第22节写作入门之句子类型上](src/assets/img/lesson92-1.png)
 
 
 ## 我的个人博客  
