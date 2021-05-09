@@ -79,6 +79,7 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 91. [91.核心词法篇上](src/assets/img/lesson91-1.png)   |  [核心词法篇中](src/assets/img/lesson91-2.png)   |  [核心词法篇下](src/assets/img/lesson91-3.png)  
 92. [92.第22节写作入门之句子类型上](src/assets/img/lesson92.png)  
 93. [93.写作入门之句子类型基础训练](src/assets/img/lesson93.png)
+94. [94.写作入门之句子类型基础训练](src/assets/img/lesson94.png)  
 
 
 
