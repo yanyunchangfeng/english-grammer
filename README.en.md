@@ -80,30 +80,18 @@ Hello, I'm [Yan Yun Chang feng](https://yanyunchangfeng.github.io)
 93. [93.写作入门之句子类型基础训练](src/assets/img/lesson93.png)
 94. [94.写作入门之句子类型基础训练](src/assets/img/lesson94.png)  
 
-
-
-## Personal Blog  
-
-* [Yan Yun Chang feng](https://yanyunchangfeng.github.io) 
-
 ## Series Project
 
-1. [NiceFish]( https://gitee.com/mumu-osc/NiceFish)：Mermaid, this is a microblogging system with a front end based on Angular 7.0 + PrimeNG 7.1.0（GVIP  gitee most valuable open source project 3192 ☆)
-2. [NiceFish-React](https://github.com/damoqiongqiu/NiceFish-React)：This is the implementation of the React version, the interface looks exactly the same. Using React Hooks version 16.8.3, TypeScript, Ant Design component library, and Bootstrap v4.2.1 development.  (7 ☆)
-3. [OpenWMS-Frontend](https://gitee.com/mumu-osc/OpenWMS-Frontend)：OpenWMS project with a front end based on Angular 7.0 + PrimeNG 7.1.0。  (Recommended 200 ☆)
-4. [nicefish-spring-cloud](https://gitee.com/mumu-osc/nicefish-spring-cloud)：This is the server code for NiceFish, based on SpringCloud. Some basic functions have been completed, such as SpringSecurity+OAuth2+JWT to implement SSO, paged queries for articles, users, comments, etc. If you need to interface with this backend code, check out the for-spring-cloud branch of the project. (Recommended 117 ☆) 
+1. [NiceFish]( https://gitee.com/mumu-osc/NiceFish)：Mermaid, this is a microblogging system with a front end based on Angular
+2. [NiceFish-React](https://github.com/damoqiongqiu/NiceFish-React)：This is the implementation of the React version, the interface looks exactly the same. Using React Hooks, TypeScript, Ant Design component library, and Bootstrap development. 
+3. [OpenWMS-Frontend](https://gitee.com/mumu-osc/OpenWMS-Frontend)：OpenWMS project with a front end based on Angular   
+4. [nicefish-spring-cloud](https://gitee.com/mumu-osc/nicefish-spring-cloud)：This is the server code for NiceFish, based on SpringCloud. Some basic functions have been completed, such as SpringSecurity+OAuth2+JWT to implement SSO, paged queries for articles, users, comments, etc. If you need to interface with this backend code, check out the for-spring-cloud branch of the project. 
 
 ## Social Homepage 
 
 1.  [Yan Yun Chang feng's Zhi Hu](https://zhihu.com/people/hbxyxuxiaodong)  
-2.  [Yan Yun Chang feng's column of Zhi Hu](https://zhuanlan.zhihu.com/yanyunchangfeng) 
-3.  [Yan Yun Chang feng's github](https://github.com/yanyunchangfeng)  
-4.  [Yan Yun Chang feng's gitee](https://gitee.com/yanyunchangfeng)  
-6.  [Yan Yun Chang feng's medium](https://medium.com/@yanyunchangfeng)  
-8.  [Yan Yun Chang feng's stackoverflow](http://stackoverflow.com/users/11366314)  
-9.  [Yan Yun Chang feng's npm](https://npmjs.com/~yanyunchangfeng)  
-12. [Yan Yun Chang feng's gmail](mailto:yanyunchangfeng@gamil.com)
-
+2.  [Yan Yun Chang feng's github](https://github.com/yanyunchangfeng)  
+3.  [Yan Yun Chang feng's gitee](https://gitee.com/yanyunchangfeng)  
 ## LICENSE
 
 MIT
