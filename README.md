@@ -14,7 +14,7 @@
 2.  [五大核心句式，动词时态2](src/assets/img/lesson2.png)   
 3.  [名词性从句](src/assets/img/lesson3.png) 
 4.  [定语从句](src/assets/img/lesson4.png)   
-5.  [状语从句1上](src/assets/img/lesson5-1.png) |    [状语从句1下](src/assets/img/lesson5-2.png)
+5.  [状语从句1](src/assets/img/lesson5.png)
 6.  [状语从句2](src/assets/img/lesson6.png)   
 7.  [句子成分和词类交互式对应](src/assets/img/lesson7.png)   
 8.  [句子成分与短语完全解析](src/assets/img/lesson8.png)   
@@ -28,13 +28,13 @@
 16. [三大从句百句斩入门训练1-62](src/assets/img/lesson16.png)   
 17. [三大从句百句斩入门训练63-100](src/assets/img/lesson17.png)   
 18. [三大从句百句斩进阶训练1](src/assets/img/lesson18.png)   
-19. [定语从句进阶版1上](src/assets/img/lesson19-1.png) |[定语从句进阶版下](src/assets/img/lesson19-2.png)    
+19. [定语从句进阶版1](src/assets/img/lesson19.png) 
 20. [三大从句百句斩进阶训练2](src/assets/img/lesson20.png)   
 21. [定语从句进阶版2](src/assets/img/lesson21.png)   
 22. [状语从句进阶版1](src/assets/img/lesson22.png)   
 23. [状语从句进阶版2](src/assets/img/lesson23.png)   
 24. [动词时态与语态超精解](src/assets/img/lesson24.png)   
-25. [八级句式渐变上](src/assets/img/lesson25-1.png)  |[八级句式渐变下](src/assets/img/lesson25-2.png)   
+25. [八级句式渐变上](src/assets/img/lesson25.png) 
 26. [初级写作与翻译训练](src/assets/img/lesson26.png)   
 27. [百句斩长难句超精解](src/assets/img/lesson27.png)   
 28. [非谓语动词入门1](src/assets/img/lesson28.png)   
@@ -42,8 +42,8 @@
 30. [非谓语动词入门3](src/assets/img/lesson30.png)   
 31. [非谓语动词例句解析](src/assets/img/lesson31.png)   
 32. [介词短语](src/assets/img/lesson32.png)   
-33. [介词短语第6节练习1上](src/assets/img/lesson33-1.png) |[介词短语第6节练习1下](src/assets/img/lesson33-2.png)    
-34. [介词短语第6节练习2上](src/assets/img/lesson34-1.png) |  [介词短语第6节练习2下](src/assets/img/lesson34-2.png)
+33. [介词短语第6节练习1](src/assets/img/lesson33.png) 
+34. [介词短语第6节练习2](src/assets/img/lesson34.png) 
 35. [名词性从句超精解高阶之主语从句](src/assets/img/lesson35.png)   
 36. [名词性从句超精解高阶之表语从句](src/assets/img/lesson36.png)   
 37. [名词性从句超精解高阶之宾语从句](src/assets/img/lesson37.png)   
@@ -76,7 +76,7 @@
 86. [86.核心句式之强调句式](src/assets/img/lesson86.png)   
 87. [87.核心句式之倒装句式1](src/assets/img/lesson87.png)   
 88. [88.核心句式之倒装句式2](src/assets/img/lesson88.png)   
-89. [89.核心句式之虚拟语气](src/assets/img/lesson89.png)   
+89. [89.核心句式之虚拟语气1](src/assets/img/lesson89.png)      
 90. [90.核心句式之省略句主谓一致(上)](src/assets/img/lesson90-1.png)   |  [核心句式之省略句主谓一致(下)](src/assets/img/lesson90-2.png) 
 91. [91.核心词法篇上](src/assets/img/lesson91-1.png)   |  [核心词法篇中](src/assets/img/lesson91-2.png)   |  [核心词法篇下](src/assets/img/lesson91-3.png)  
 92. [92.第22节写作入门之句子类型上](src/assets/img/lesson92.png)  
@@ -97,9 +97,7 @@
 | nicefish-springcloud  | 用来示范前后端分离模式下，前端代码与分布式后端服务的对接方式，即将完成，代码最近放出。|   
 ## 社交主页
 
-* [燕云长风知乎](https://zhihu.com/people/hbxyxuxiaodong)
 * [燕云长风 github](https://github.com/yanyunchangfeng)
-* [燕云长风 gitee](https://gitee.com/yanyunchangfeng)
 
 ## 开源许可证
 

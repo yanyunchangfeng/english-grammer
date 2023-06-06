@@ -6,12 +6,12 @@
 
 ##  Description
 Hello, I'm [Yan Yun Chang feng](https://yanyunchangfeng.github.io)
-##  Learning English Grammer  
+##  Learn English Grammar  
 1.  [词类、句子成分、动词种类、句式流程图](src/assets/img/lesson1.png) 
 2.  [五大核心句式，动词时态2](src/assets/img/lesson2.png)   
 3.  [名词性从句](src/assets/img/lesson3.png) 
 4.  [定语从句](src/assets/img/lesson4.png)   
-5.  [状语从句1上](src/assets/img/lesson5-1.png) |    [状语从句1下](src/assets/img/lesson5-2.png)
+5.  [状语从句1](src/assets/img/lesson5.png)
 6.  [状语从句2](src/assets/img/lesson6.png)   
 7.  [句子成分和词类交互式对应](src/assets/img/lesson7.png)   
 8.  [句子成分与短语完全解析](src/assets/img/lesson8.png)   
@@ -25,13 +25,13 @@ Hello, I'm [Yan Yun Chang feng](https://yanyunchangfeng.github.io)
 16. [三大从句百句斩入门训练1-62](src/assets/img/lesson16.png)   
 17. [三大从句百句斩入门训练63-100](src/assets/img/lesson17.png)   
 18. [三大从句百句斩进阶训练1](src/assets/img/lesson18.png)   
-19. [定语从句进阶版1上](src/assets/img/lesson19-1.png) |[定语从句进阶版下](src/assets/img/lesson19-2.png)    
+19. [定语从句进阶版1](src/assets/img/lesson19.png)
 20. [三大从句百句斩进阶训练2](src/assets/img/lesson20.png)   
 21. [定语从句进阶版2](src/assets/img/lesson21.png)   
 22. [状语从句进阶版1](src/assets/img/lesson22.png)   
 23. [状语从句进阶版2](src/assets/img/lesson23.png)   
 24. [动词时态与语态超精解](src/assets/img/lesson24.png)   
-25. [八级句式渐变上](src/assets/img/lesson25-1.png)  |[八级句式渐变下](src/assets/img/lesson25-2.png)   
+25. [八级句式渐变](src/assets/img/lesson25.png)
 26. [初级写作与翻译训练](src/assets/img/lesson26.png)   
 27. [百句斩长难句超精解](src/assets/img/lesson27.png)   
 28. [非谓语动词入门1](src/assets/img/lesson28.png)   
@@ -39,8 +39,8 @@ Hello, I'm [Yan Yun Chang feng](https://yanyunchangfeng.github.io)
 30. [非谓语动词入门3](src/assets/img/lesson30.png)   
 31. [非谓语动词例句解析](src/assets/img/lesson31.png)   
 32. [介词短语](src/assets/img/lesson32.png)   
-33. [介词短语第6节练习1上](src/assets/img/lesson33-1.png) |[介词短语第6节练习1下](src/assets/img/lesson33-2.png)    
-34. [介词短语第6节练习2上](src/assets/img/lesson34-1.png) |  [介词短语第6节练习2下](src/assets/img/lesson34-2.png)
+33. [介词短语第6节练习1](src/assets/img/lesson33.png)
+34. [介词短语第6节练习2](src/assets/img/lesson34.png) 
 35. [名词性从句超精解高阶之主语从句](src/assets/img/lesson35.png)   
 36. [名词性从句超精解高阶之表语从句](src/assets/img/lesson36.png)   
 37. [名词性从句超精解高阶之宾语从句](src/assets/img/lesson37.png)   
@@ -88,10 +88,8 @@ Hello, I'm [Yan Yun Chang feng](https://yanyunchangfeng.github.io)
 4. [nicefish-spring-cloud](https://gitee.com/mumu-osc/nicefish-spring-cloud)：This is the server code for NiceFish, based on SpringCloud. Some basic functions have been completed, such as SpringSecurity+OAuth2+JWT to implement SSO, paged queries for articles, users, comments, etc. If you need to interface with this backend code, check out the for-spring-cloud branch of the project. 
 
 ## Social Homepage 
-
-1.  [Yan Yun Chang feng's Zhi Hu](https://zhihu.com/people/hbxyxuxiaodong)  
-2.  [Yan Yun Chang feng's github](https://github.com/yanyunchangfeng)  
-3.  [Yan Yun Chang feng's gitee](https://gitee.com/yanyunchangfeng)  
+  
+*  [Yan Yun Chang feng's github](https://github.com/yanyunchangfeng)  
 ## LICENSE
 
 MIT
