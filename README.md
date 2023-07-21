@@ -10,8 +10,8 @@
 
 ## 这是英语语法的学习，如下:
 
-1.  [词类、句子成分、动词种类、句式流程图](src/assets/img/lesson1.png) 
-2.  [五大核心句式，动词时态2](src/assets/img/lesson2.png)   
+1.  [词类、句子成分、动词种类、句式流程图](src/app/lesson1/lesson1.pdf) 
+2.  [五大核心句式，动词时态2](src/app/lesson2/lesson2.pdf)   
 3.  [名词性从句](src/assets/img/lesson3.png) 
 4.  [定语从句](src/assets/img/lesson4.png)   
 5.  [状语从句1](src/assets/img/lesson5.png)
