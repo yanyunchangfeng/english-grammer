@@ -5,7 +5,7 @@
 </p>
 
 ##  Description
-Hello, I'm [Yan Yun Chang feng](https://yanyunchangfeng.github.io)
+Hello, I'm [Yan Yun Chang feng](https://yanyunchangfeng.github.io)   
 Meaning: combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - Long winds of tens of thousands of miles, belowing Yumenguan.
 ##  Learn English Grammar  
 1.  [词类、句子成分、动词种类、句式流程图](src/app/lesson1/lesson1.pdf) 
@@ -83,10 +83,15 @@ Meaning: combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - L
 
 ## Series Project
 
-1. [NiceFish]( https://gitee.com/mumu-osc/NiceFish)：Mermaid, this is a microblogging system with a front end based on Angular
-2. [NiceFish-React](https://github.com/damoqiongqiu/NiceFish-React)：This is the implementation of the React version, the interface looks exactly the same. Using React Hooks, TypeScript, Ant Design component library, and Bootstrap development. 
-3. [OpenWMS-Frontend](https://gitee.com/mumu-osc/OpenWMS-Frontend)：OpenWMS project with a front end based on Angular   
-4. [nicefish-spring-cloud](https://gitee.com/mumu-osc/nicefish-spring-cloud)：This is the server code for NiceFish, based on SpringCloud. Some basic functions have been completed, such as SpringSecurity+OAuth2+JWT to implement SSO, paged queries for articles, users, comments, etc. If you need to interface with this backend code, check out the for-spring-cloud branch of the project. 
+|  名称   | 描述  | Stars  |
+|  ----  | ----  | ----  |
+| [NiceFish（mermaid）](http://git.oschina.net/mumu-osc/NiceFish/)  | This is a series of projects whose goal is to demonstrate the development mode of front-end and back-end separation: various development modes in front-end browsers, mobile terminals, and Electron environments. There are two versions of the backend: SpringBoot version and SpringCloud version |  <a href='https://gitee.com/mumu-osc/NiceFish/stargazers'><img src='https://gitee.com/mumu-osc/NiceFish/badge/star.svg?theme=gvp' alt='star'></img></a>  |
+| [NiceFish-React](https://gitee.com/mumu-osc/NiceFish-React)  | This is the implementation of the React version 18.2.0, developed using Ant Design component library, inversify library, and Bootstrap version 4.2.1  | <a href='https://gitee.com/mumu-osc/NiceFish-React/stargazers'><img src='https://gitee.com/mumu-osc/NiceFish-React/badge/star.svg?theme=dark' alt='star'></img></a> |
+| [nicefish-ionic](http://git.oschina.net/mumu-osc/nicefish-ionic)  | This is a mobile demo, based on ionic, and this project already supports PWA.| <a href='https://gitee.com/mumu-osc/nicefish-ionic/stargazers'><img src='https://gitee.com/mumu-osc/nicefish-ionic/badge/star.svg?theme=dark' alt='star'></img></a> |
+| [NiceBlogElectron](https://gitee.com/mumu-osc/NiceBlogElectron)  | This is an Electron-based desktop project that packages NiceFish with Electron into a desktop program. This is provided by ZTE front-end Taoist, I forked one, there are several node module version numbers to change, if you are researching how to use Electron to develop desktop applications, please refer to this project. | <a href='https://gitee.com/mumu-osc/NiceBlogElectron/stargazers'><img src='https://gitee.com/mumu-osc/NiceBlogElectron/badge/star.svg?theme=dark' alt='star'></img></a> |
+| [nicefish-spring-boot](https://gitee.com/mumu-osc/nicefish-spring-boot)  | It is used to demonstrate the connection between front-end code and back-end services in the front-end and back-end separation mode, and the baseline version has been completed. Based on this, you can continue to develop code that suits your business scenario.| <a href='https://gitee.com/mumu-osc/nicefish-spring-boot/stargazers'><img src='https://gitee.com/mumu-osc/nicefish-spring-boot/badge/star.svg?theme=dark' alt='star'></img></a> |
+| [nicefish-spring-cloud](https://gitee.com/mumu-osc/nicefish-spring-cloud)  | It is used to demonstrate the connection between front-end code and distributed back-end services in the front-end and back-end separation mode  | <a href='https://gitee.com/mumu-osc/nicefish-spring-cloud/stargazers'><img src='https://gitee.com/mumu-osc/nicefish-spring-cloud/badge/star.svg?theme=dark' alt='star'></img></a> |
+| [OpenWMS](https://gitee.com/mumu-osc/OpenWMS-Frontend)  | It is used to demonstrate the development mode of managing back-end systems.| <a href='https://gitee.com/mumu-osc/OpenWMS-Frontend/stargazers'><img src='https://gitee.com/mumu-osc/OpenWMS-Frontend/badge/star.svg?theme=dark' alt='star'></img></a> |
 
 ## Social Homepage 
   

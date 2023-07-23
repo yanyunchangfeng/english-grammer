@@ -1,7 +1,7 @@
 [English](README.en.md) | 简体中文  
 
 <p align="center">
-    <img width="300" src="https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0/app/lesson/blog/yycf/yanyunchangfeng.pdf">
+    <img width="300" src="https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0/assets/img/blog/yycf/yanyunchangfeng.png">
 </p>
 
 ##  介绍
@@ -50,7 +50,7 @@
 38. [超精解高阶之定语从句](src/app/lesson38/lesson38.pdf)   
 39. [超精解高阶之状语从句](src/app/lesson39/lesson39.pdf)   
 40. [非谓语动词进阶](src/app/lesson40/lesson40.pdf)   
-41. [Marvel系列电影原版例句赏析上](src/app/lesson/lesson41.pdf)
+41. [Marvel系列电影原版例句赏析上](src/app/lesson41/lesson41.pdf)
 42. [介词短语进阶](src/app/lesson42/lesson42.pdf) 
 43. [介词短语进阶之哈利波特电影例句解析](src/app/lesson43/lesson43.pdf)   
 44. [介词短语综合强化训练1](src/app/lesson44/lesson44.pdf) 
